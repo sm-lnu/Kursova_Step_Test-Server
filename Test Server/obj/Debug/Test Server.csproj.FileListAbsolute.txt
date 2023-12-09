@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\bin\Debug\Test Server.exe.config
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\bin\Debug\Test Server.exe
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\bin\Debug\Test Server.pdb
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\obj\Debug\Test Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\obj\Debug\Test_Server.Form1.resources
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\obj\Debug\Test_Server.Properties.Resources.resources
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\obj\Debug\Test Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\obj\Debug\Test Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\obj\Debug\Test Server.exe
+C:\Users\User\Desktop\курсова\Test Server\Test Server\Test Server\obj\Debug\Test Server.pdb
+C:\Users\User\Desktop\курсова\Test Server\Test Server\bin\Debug\Test Server.exe.config
+C:\Users\User\Desktop\курсова\Test Server\Test Server\bin\Debug\Test Server.exe
+C:\Users\User\Desktop\курсова\Test Server\Test Server\bin\Debug\Test Server.pdb
+C:\Users\User\Desktop\курсова\Test Server\Test Server\obj\Debug\Test Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\курсова\Test Server\Test Server\obj\Debug\Test_Server.LoginningForm.resources
+C:\Users\User\Desktop\курсова\Test Server\Test Server\obj\Debug\Test_Server.Properties.Resources.resources
+C:\Users\User\Desktop\курсова\Test Server\Test Server\obj\Debug\Test Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\курсова\Test Server\Test Server\obj\Debug\Test Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курсова\Test Server\Test Server\obj\Debug\Test Server.exe
+C:\Users\User\Desktop\курсова\Test Server\Test Server\obj\Debug\Test Server.pdb
